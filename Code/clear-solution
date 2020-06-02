@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+rm ./solution/*
+rm ./alpha/*
+rm ./particles/*
+rm ./rays/*
+rm ./mat_tracers/*
